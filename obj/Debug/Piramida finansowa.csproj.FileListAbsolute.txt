@@ -1,0 +1,6 @@
+c:\users\вадим\documents\visual studio 2015\Projects\Piramida finansowa\Piramida finansowa\bin\Debug\Piramida finansowa.exe.config
+c:\users\вадим\documents\visual studio 2015\Projects\Piramida finansowa\Piramida finansowa\bin\Debug\Piramida finansowa.exe
+c:\users\вадим\documents\visual studio 2015\Projects\Piramida finansowa\Piramida finansowa\bin\Debug\Piramida finansowa.pdb
+c:\users\вадим\documents\visual studio 2015\Projects\Piramida finansowa\Piramida finansowa\obj\Debug\Piramida finansowa.exe
+c:\users\вадим\documents\visual studio 2015\Projects\Piramida finansowa\Piramida finansowa\obj\Debug\Piramida finansowa.pdb
+C:\Users\Вадим\Documents\Visual Studio 2015\Projects\Piramida finansowa\Piramida finansowa\obj\Debug\Piramida finansowa.csprojResolveAssemblyReference.cache
